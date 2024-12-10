@@ -3,7 +3,6 @@
 <div align="center">
 
 [![Chrome Web Store](https://img.shields.io/chrome-web-store/v/[your-extension-id]?style=for-the-badge&logo=google-chrome&logoColor=white&label=Chrome%20Store)](chrome-store-link-here)
-[![GitHub](https://img.shields.io/github/license/S4lXLV/twitter-x-cleaner?style=for-the-badge)](LICENSE)
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-support-%23FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/s4lxlv)
 
 *A Chrome extension that helps you declutter your Twitter/X interface by removing unnecessary items from the left sidebar, providing a cleaner and more focused social media experience.* 🚀
@@ -48,25 +47,6 @@ The extension uses a content script to monitor and modify the Twitter/X interfac
 - 📡 Uses a MutationObserver to handle dynamic content
 - 💫 Maintains state across page navigation
 
-## 👨‍💻 Development
-
-The extension consists of several key files:
-```
-├── popup.html/js   # User interface for controlling settings
-├── content.js      # Handles the actual Twitter/X page modifications
-└── background.js   # Manages extension state and communication
-```
-
-## 🤝 Contributing
-
-Feel free to contribute to this project by:
-1. Forking the repository
-2. Creating a feature branch
-3. Submitting a pull request
-
-## 📄 License
-
-This project is open source and available under the MIT License.
 
 ## 👨‍🦱 Author
 
