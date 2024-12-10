@@ -1,0 +1,42 @@
+{  
+  "manifest_version": 3,  
+  "name": "Twitter/X Cleaner",  
+  "version": "1.2",
+  "description": "Removes unnecessary items from the left banner on Twitter/X.",  
+  "permissions": [
+    "activeTab",
+    "storage",
+    "scripting",
+    "tabs"
+  ],
+  "host_permissions": [
+    "*://*.twitter.com/*",
+    "*://*.x.com/*"
+  ],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "icons/icon16.png",
+      "32": "icons/icon32.png",
+      "48": "icons/icon48.png",
+      "128": "icons/icon128.png"
+    }
+  },
+  "background": {
+    "service_worker": "background.js",
+    "type": "module"
+  },
+  "content_scripts": [  
+    {  
+      "matches": ["*://*.twitter.com/*", "*://*.x.com/*"],  
+      "js": ["content.js"],
+      "run_at": "document_end"
+    }  
+  ],  
+  "icons": {  
+    "16": "icons/icon16.png",  
+    "32": "icons/icon32.png",  
+    "48": "icons/icon48.png",  
+    "128": "icons/icon128.png"
+  }
+}
