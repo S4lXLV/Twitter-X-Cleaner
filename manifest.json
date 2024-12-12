@@ -4,7 +4,6 @@
   "version": "1.2",
   "description": "Removes unnecessary items from the left banner on Twitter/X.",  
   "permissions": [
-    "activeTab",
     "storage",
     "scripting",
     "tabs"
