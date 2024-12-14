@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Chrome Web Store](https://img.shields.io/chrome-web-store/v/[your-extension-id]?style=for-the-badge&logo=google-chrome&logoColor=white&label=Chrome%20Store)](chrome-store-link-here)
+[![Chrome Web Store](https://img.shields.io/chrome-web-store/v/[your-extension-id]?style=for-the-badge&logo=google-chrome&logoColor=white&label=Chrome%20Store)]([chrome-store-link-here](https://chromewebstore.google.com/detail/twitterx-cleaner/hgmgflgcnpfoaldhklmifmkclbmooame?authuser=2&hl=en))
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-support-%23FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/s4lxlv)
 
 *A Chrome extension that helps you declutter your Twitter/X interface by removing unnecessary items from the left sidebar, providing a cleaner and more focused social media experience.* 🚀
@@ -22,7 +22,7 @@
 ## 📥 Installation
 
 ### Chrome Web Store (Recommended)
-1. Visit the [Chrome Web Store](chrome-store-link-here)
+1. Visit the [Chrome Web Store](https://chromewebstore.google.com/detail/twitterx-cleaner/hgmgflgcnpfoaldhklmifmkclbmooame?authuser=2&hl=en)
 2. Click "Add to Chrome"
 3. Follow the installation prompts
 
