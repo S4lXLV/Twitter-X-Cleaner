@@ -9,6 +9,11 @@
 
 </div>
 
+<div align="center">
+  <img src="social-preview.png" alt="App Image" width="300"/>
+  <p>Screenshot of the extension in action</p>
+</div>
+
 ---
 
 ## ✨ Features
