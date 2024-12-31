@@ -1,16 +1,22 @@
 # Twitter/X Cleaner 🧹
 
 <div align="center">
+  <img src="https://img.shields.io/chrome-web-store/v/hgmgflgcnpfoaldhklmifmkclbmooame?style=for-the-badge&logo=google-chrome&logoColor=white&label=Chrome%20Store" alt="Chrome Web Store Version" />
+  <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-support-%23FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
+</div>
 
-[![Chrome Web Store](https://img.shields.io/chrome-web-store/v/hgmgflgcnpfoaldhklmifmkclbmooame?style=for-the-badge&logo=google-chrome&logoColor=white&label=Chrome%20Store)](https://chromewebstore.google.com/detail/twitterx-cleaner/hgmgflgcnpfoaldhklmifmkclbmooame?authuser=2&hl=en)
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-support-%23FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/s4lxlv)
+<div align="center">
+  <img src="Twitter-X-Cleaner.png" alt="Twitter-X Cleaner Icon" width="auto"/>
+</div>
 
 *A Chrome extension that helps you declutter your Twitter/X interface by removing unnecessary items from the left sidebar, providing a cleaner and more focused social media experience.* 🚀
 
 </div>
 
+## 📸 Screenshots
+
 <div align="center">
-  <img src="social-preview.png" alt="App Image" width="300"/>
+  <img src="social-preview.png" alt="Twitter-X Cleaner App Preview" width="auto"/>
   <p>Screenshot of the extension in action</p>
 </div>
 
